@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.watchviewstub;
+package com.example.android.google.wearable.watchviewstub;
 
 import android.app.Activity;
 import android.os.Bundle;
