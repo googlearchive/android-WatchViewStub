@@ -3,12 +3,26 @@ Android WatchViewStub Sample
 
 This sample demonstrates how to specify different layouts for round and rectangular screens.
 
+Introduction
+------------
+
+It is a basic sample that displays a round layout on a round watch and a rectangular one on a
+rectangular watch.
+
+The corresponding layout is being inflated by the system. This sample shows a way to handle
+this programatically by using a `WatchViewStub.OnLayoutInflateListener`.
+
 Pre-requisites
 --------------
 
 - Android SDK v21
 - Android Build Tools v21.1.1
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/watch_view_stub_rectangular.png" height="400" alt="Screenshot"/> <img src="screenshots/watch_view_stub_round.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------

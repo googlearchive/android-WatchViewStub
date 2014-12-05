@@ -9,4 +9,9 @@ categories:   [Wearable]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-WatchViewStub
+level:        INTERMEDIATE
+icon:         Wearable/src/main/res/drawable-xxhdpi/ic_launcher.png
+apiRefs:
+    - android:android.support.wearable.view.WatchViewStub
+    - android:android.support.wearable.view.WatchViewStub.OnLayoutInflatedListener
 license: apache2
